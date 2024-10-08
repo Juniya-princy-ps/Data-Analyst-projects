@@ -12,7 +12,6 @@ Tools:
  
  - Power Query: Utilized to clean and transform the raw data to ensure consistency and accuracy in the dashboard.
  
- - SQL: Employed to extract and manipulate data, enabling efficient analysis and creation of calculated columns for further insights.
 
  Data Cleaning/Preparation:
  
